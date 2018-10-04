@@ -1,8 +1,9 @@
 ### Qué es Confluence?
-· Plataforma de colaboración en equipo donde intercambiar ideas y crear 
+
+- Plataforma de colaboración en equipo donde intercambiar ideas y crear 
 contenido, apoyar y desarrollar proyectos..
 
-· Funciona como una Wiki.
+- Funciona como una Wiki.
 
 > #### *Wiki: Sistema de trabajo informático que permite a los usuarios modificar o crear contenido Web de forma rápida y sencilla.*
 
