@@ -2,8 +2,7 @@
 · Plataforma de colaboración en equipo donde intercambiar ideas y crear 
 contenido, apoyar y desarrollar proyectos..
 
-· Funciona como una Wiki, a la vez que los usuarios pueden interaccionar entre
-ellos como si fuese una Red Social.
+· Funciona como una Wiki.
 
 > #### *Wiki: Sistema de trabajo informático que permite a los usuarios modificar o crear contenido Web de forma rápida y sencilla.*
 
@@ -15,7 +14,7 @@ ellos como si fuese una Red Social.
 
 ## **Instalación**
 Dos maneras de implementación para Confluence:
-- Descargar e instalar en nuestro propio server, detrás del Cortafuegos.
+- Descargar e instalar en nuestro propio server.
 
 - Alojarla en Atlassian OnDemand (SaaS). 
  - Más de 30.000 usuarios.
