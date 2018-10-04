@@ -5,7 +5,7 @@ contenido, apoyar y desarrollar proyectos..
 · Funciona como una Wiki, a la vez que los usuarios pueden interaccionar entre
 ellos como si fuese una Red Social.
 
-> #### *Wiki: Sistema de trabajo informático utilizado en los sitios web que permite a los usuarios modificar o crear contenido de forma rápida y sencilla.*
+> #### *Wiki: Sistema de trabajo informático que permite a los usuarios modificar o crear contenido Web de forma rápida y sencilla.*
 
 ---
 
