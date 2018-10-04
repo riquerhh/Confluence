@@ -5,8 +5,8 @@ contenido, apoyar y desarrollar proyectos..
 · Funciona como una Wiki, a la vez que los usuarios pueden interaccionar entre
 ellos como si fuese una Red Social.
 
-##### > *Wiki: Sistema de trabajo informático utilizado en los sitios web que permite
-> a los usuarios modificar o crear contenido de forma rápida y sencilla.*
+> ##### *Wiki: Sistema de trabajo informático utilizado en los sitios web que permite
+> ##### a los usuarios modificar o crear contenido de forma rápida y sencilla.*
 
 ---
 
@@ -19,7 +19,7 @@ Dos maneras de implementación para Confluence:
 - Descargar e instalar en nuestro propio server, detrás del Cortafuegos.
 
 - Alojarla en Atlassian OnDemand (SaaS). 
-	- Más de 30.000 usuarios.
+ - Más de 30.000 usuarios.
 
 ##### *SaaS: Software as a Service, tanto el software como los datos se alojan en un servidor externo a la empresa.*
 
@@ -35,7 +35,8 @@ Dos maneras de implementación para Confluence:
 ### **Características**
 1. **Gestor Documental:** Incorpora un control de versiones automático
 para los adjuntos y su edición. 
-	· Compatible con cualquier tipo de documento
+
+ · Compatible con cualquier tipo de documento
 
 2. **Contenido estructurado:** Se gestiona por zonas (o espacios), y permite pluggins
 de terceros que expanden la herramienta. (+400 complementos)
@@ -44,12 +45,12 @@ de terceros que expanden la herramienta. (+400 complementos)
 
 ### Plugins 
 
-	*. Exportar a PDF, Office..
-	*. Diagramas de trabajo
-	*. Chat incorporado
-	*. Calendario
-	*. Configuración aspectos gráficos
-	*. Etc..
+- Exportar a PDF, Office..
+- Diagramas de trabajo
+- Chat incorporado
+- Calendario
+- Configuración aspectos gráficos
+- Etc..
 
 ---
 
@@ -79,15 +80,15 @@ de terceros que expanden la herramienta. (+400 complementos)
 #### Creación de páginas
 
 Se pueden crear multitud de páginas diferentes con gran variedad de Templates,
-tanto públicas como privadas, y gestionar todos los permisos de cara a los usuarios.
+tanto públicas como privadas, y gestionar todos sus permisos.
 
 ---
 
-- [X] Artículos (enlaces y contenido Web, tablas de Contenido, imágenes..)
-- [  ] Informes de Jira
+- [X] Artículos (enlaces y contenido web, tablas de contenido, imágenes..)
+- [O] Informes de Jira
 - [X] Entradas de Blog
-- [X] Soluciones de problemas
-- [X] Decisiones del equipo
+- [X] Solucion de problemas
+- [X] Decisiones de equipo
 - [X] Informes de tareas con seguimiento
 
 ---
@@ -117,7 +118,7 @@ con permisos seguros y graduales.
 
 ## **Tareas**
 Se pueden asignar tareas a los usuarios, que automáticamente recibirán
-una notificación (a través de Confluence/Vía mail) informando de la misma.
+una notificación (a través de Confluence / Vía mail).
 
 ---
 
@@ -147,7 +148,7 @@ Las páginas se organizan en espacios.
 * Crear secciones dentro del contenido. (Ramas entre las publicaciones)
 * Espacios de uso público y privado.
 
-	_Ejemplos de espacios: Departamentos, Proyectos..._
+	_Ejemplos de espacio: Departamentos, Proyectos..._
 
 ---
 
@@ -190,8 +191,6 @@ términos específicos.
 ---
 
 ![Imagen2](/Imagenes/fin.png)
-
----
 
 
 
