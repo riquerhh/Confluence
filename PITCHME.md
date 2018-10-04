@@ -5,8 +5,7 @@ contenido, apoyar y desarrollar proyectos..
 · Funciona como una Wiki, a la vez que los usuarios pueden interaccionar entre
 ellos como si fuese una Red Social.
 
-> ##### *Wiki: Sistema de trabajo informático utilizado en los sitios web que permite
-> ##### a los usuarios modificar o crear contenido de forma rápida y sencilla.*
+> #### *Wiki: Sistema de trabajo informático utilizado en los sitios web que permite a los usuarios modificar o crear contenido de forma rápida y sencilla.*
 
 ---
 
@@ -21,7 +20,7 @@ Dos maneras de implementación para Confluence:
 - Alojarla en Atlassian OnDemand (SaaS). 
  - Más de 30.000 usuarios.
 
-##### *SaaS: Software as a Service, tanto el software como los datos se alojan en un servidor externo a la empresa.*
+> ##### *SaaS: Software as a Service, tanto el software como los datos se alojan en un servidor externo a la empresa.*
 
 ---
 
@@ -85,7 +84,7 @@ tanto públicas como privadas, y gestionar todos sus permisos.
 ---
 
 - [X] Artículos (enlaces y contenido web, tablas de contenido, imágenes..)
-- [O] Informes de Jira
+- [X] Informes de Jira
 - [X] Entradas de Blog
 - [X] Solucion de problemas
 - [X] Decisiones de equipo
