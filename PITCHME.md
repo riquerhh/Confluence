@@ -1,23 +1,11 @@
-## Qué es Confluence?
+### Qué es Confluence?
 · Plataforma de colaboración en equipo donde intercambiar ideas y crear 
 contenido, apoyar y desarrollar proyectos..
 
 · Funciona como una Wiki, a la vez que los usuarios pueden interaccionar entre
 ellos como si fuese una Red Social.
 
-> *Wiki: Sistema de trabajo informático utilizado en los sitios web que permite
-> a los usuarios modificar o crear contenido de forma rápida y sencilla.*
-
----
-
-## Qué es Confluence?
-· Plataforma de colaboración en equipo donde intercambiar ideas y crear 
-contenido, apoyar y desarrollar proyectos..
-
-· Funciona como una Wiki, a la vez que los usuarios pueden interaccionar entre
-ellos como si fuese una Red Social.
-
-> *Wiki: Sistema de trabajo informático utilizado en los sitios web que permite
+##### > *Wiki: Sistema de trabajo informático utilizado en los sitios web que permite
 > a los usuarios modificar o crear contenido de forma rápida y sencilla.*
 
 ---
@@ -47,19 +35,21 @@ Dos maneras de implementación para Confluence:
 ### **Características**
 1. **Gestor Documental:** Incorpora un control de versiones automático
 para los adjuntos y su edición. 
-	1. Compatible con cualquier tipo de documento
+	· Compatible con cualquier tipo de documento
 
 2. **Contenido estructurado:** Se gestiona por zonas (o espacios), y permite pluggins
 de terceros que expanden la herramienta. (+400 complementos)
 
 ---
- 
-	A. Exportar a PDF, Office..
-	B. Diagramas de trabajo
-	C. Chat incorporado
-	D. Calendario
-	E. Configuración aspectos gráficos
-	F. Etc..
+
+### Plugins 
+
+	*. Exportar a PDF, Office..
+	*. Diagramas de trabajo
+	*. Chat incorporado
+	*. Calendario
+	*. Configuración aspectos gráficos
+	*. Etc..
 
 ---
 
@@ -70,7 +60,7 @@ de terceros que expanden la herramienta. (+400 complementos)
 ### **Dashboard (Tablero, muro)**
 · Podemos crear espacios personales y espacios de trabajo
 
-1- Crear el espacio personal y el del equipo
+1- Crear el espacio (personal o colectivo)
 
 2- Configurar el espacio para que sea fácil y accesible
 
@@ -81,8 +71,12 @@ de terceros que expanden la herramienta. (+400 complementos)
 ![Imagen2](/Imagenes/Dashboard.png)
 
 ---
-## **Características más utilizadas**
-### Creación de páginas
+
+### **Características más utilizadas**
+
+---
+
+#### Creación de páginas
 
 Se pueden crear multitud de páginas diferentes con gran variedad de Templates,
 tanto públicas como privadas, y gestionar todos los permisos de cara a los usuarios.
@@ -90,7 +84,7 @@ tanto públicas como privadas, y gestionar todos los permisos de cara a los usua
 ---
 
 - [X] Artículos (enlaces y contenido Web, tablas de Contenido, imágenes..)
-- [ ] Informes de Jira
+- [  ] Informes de Jira
 - [X] Entradas de Blog
 - [X] Soluciones de problemas
 - [X] Decisiones del equipo
@@ -106,7 +100,7 @@ tanto públicas como privadas, y gestionar todos los permisos de cara a los usua
 
 ---
 
-## **Permisos flexibles**
+## **Permisos**
 
 Controla la creación, edición y visibilidad de todo el contenido
 con permisos seguros y graduales.
@@ -123,13 +117,13 @@ con permisos seguros y graduales.
 
 ## **Tareas**
 Se pueden asignar tareas a los usuarios, que automáticamente recibirán
-una notificación (a través de Confluence/vía mail) informando de la misma.
+una notificación (a través de Confluence/Vía mail) informando de la misma.
 
 ---
 
 ![Imagen2](/Imagenes/Tareas3.png)
 
---
+---
 
 ![Imagen2](/Imagenes/Ejemplopag.png)
 
@@ -139,10 +133,7 @@ una notificación (a través de Confluence/vía mail) informando de la misma.
 
 ---
 
-En el apartado "Perfil/Tareas" se puede hacer un seguimiento de las tareas pendientes,
-tanto individuales como colectivas.
-
-Se pueden asignar tareas y tener un seguimiento de su estado, la fecha de vencimiento, etc.
+En el apartado "Perfil/Tareas" se puede hacer un seguimiento de las tareas pendientes o finalizadas, tanto individuales como colectivas, a la vez que ver su Estado, el SLA, etc.
 
 ---
 
@@ -151,12 +142,12 @@ Se pueden asignar tareas y tener un seguimiento de su estado, la fecha de vencim
 ---
 
 ## **Espacios**
-Las páginas se organizan en espacios, dependiendo del título.
-* No se pueden crear dos páginas con el mismo título dentro de un mismo Espacio.
+Las páginas se organizan en espacios.
+* No se pueden crear dos páginas con el mismo nombre dentro de un mismo Espacio.
 * Crear secciones dentro del contenido. (Ramas entre las publicaciones)
 * Espacios de uso público y privado.
 
-	Ejemplos de espacios: Departamentos, Proyectos...
+	_Ejemplos de espacios: Departamentos, Proyectos..._
 
 ---
 
